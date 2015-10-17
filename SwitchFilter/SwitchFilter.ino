@@ -2,8 +2,8 @@
 #define DEBOUNCE_DELAY 10
 
 // switch and output pins
-int inputSwitch = 8;
-int outputPort = 12;
+int inputSwitch = 3;
+int outputPort = 4;
 
 // pin state variables
 boolean currentInputSwitchState = LOW;
